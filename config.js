@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "TẶNG EM NÈ !",
-    introTitle: 'xundien oiiiiiiii',
+    introTitle: 'ba xa oi',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
@@ -15,6 +15,6 @@ const CONFIG = {
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'Đồng ý làm bà xã của anh nhaaaaaaaaaa <3.',
-    btnAccept: 'DẠ <3',
+    btnAccept: 'DẠ uki lun <3',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
