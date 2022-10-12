@@ -1,6 +1,6 @@
 const CONFIG = {
-    titleWeb: "TẶNG EM NÈ !",
-    introTitle: 'ba xa oi',
+    titleWeb: "Tặng em món quà nhỏ <3",
+    introTitle: 'KIM PHỤNG oiiii',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
@@ -12,9 +12,9 @@ const CONFIG = {
     btnNo: 'Không nha :3',
     question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    reply: 'Tại mê anh ddosooooooooooo <333',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Đồng ý làm bà xã của anh nhaaaaaaaaaa <3.',
-    btnAccept: 'DẠ uki lun <3',
+    messDesc: 'Đồng ý sau này sẽ làm bạn gái anh nhaaaa ><.',
+    btnAccept: ' DẠAAAAAA',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
